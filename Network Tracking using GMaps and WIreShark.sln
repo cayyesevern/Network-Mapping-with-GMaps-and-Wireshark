@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34601.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Network Tracking using GMaps and WIreShark", "Network Tracking using GMaps and WIreShark\Network Tracking using GMaps and WireShark.pyproj", "{EEFA78B7-D561-41C7-8F6F-A4FFECBD4F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEFA78B7-D561-41C7-8F6F-A4FFECBD4F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFA78B7-D561-41C7-8F6F-A4FFECBD4F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D124D55-5D69-408B-A042-29B232100A6B}
+	EndGlobalSection
+EndGlobal
